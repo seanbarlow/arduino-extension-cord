@@ -1,5 +1,6 @@
 {
     "sketch": "device\\device.ino",
-    "board": "arduino:samd:nano_33_iot",
-    "port": "COM4"
+    "board": "arduino:megaavr:uno2018",
+    "port": "COM3",
+    "configuration": "mode=off"
 }
